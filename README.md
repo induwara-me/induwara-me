@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Induwara 👋
 
-<!--
-**induwara-me/induwara-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Manufacturing Engineering Undergraduate | CAD & Mechanical Design
 
-Here are some ideas to get you started:
+I'm a Manufacturing Engineering undergraduate interested in mechanical design, CAD, manufacturing, automation and robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use SOLIDWORKS to develop 3D parts, mechanical assemblies, and engineering drawings.
+
+## 🔧 Skills
+
+- SOLIDWORKS
+- 3D CAD Modeling
+- Mechanical Assembly
+- Assembly Mates & Constraints
+- Engineering Drawings
+- Bill of Materials (BOM)
+- Interference Detection
+- Mechanical Design
+- Manufacturing Engineering
+
+## 📁 CAD Projects
+
+### 🔧 Two-Jaw Gear Puller
+3D CAD model and mechanical assembly of a hand-operated two-jaw gear puller.
+
+### ⚙️ Screw Press
+3D CAD modeling and mechanical assembly of a screw press.
+
+## 🎯 Currently Developing
+
+- Advanced SOLIDWORKS skills
+- Mechanical design
+- Manufacturing knowledge
+- CAD portfolio
+- Automation & robotics skills
+
+## 💻 Software
+
+- SOLIDWORKS
+- AutoCAD
+- GitHub
