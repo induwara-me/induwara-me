@@ -1,4 +1,4 @@
-# Hi, I'm Induwara 👋
+# Hi, I'm Induwara 
 
 ### Manufacturing Engineering Undergraduate | CAD & Mechanical Design
 
@@ -6,7 +6,7 @@ I'm a Manufacturing Engineering undergraduate interested in mechanical design, C
 
 I use SOLIDWORKS to develop 3D parts, mechanical assemblies, and engineering drawings.
 
-## 🔧 Skills
+## Skills
 
 - SOLIDWORKS
 - 3D CAD Modeling
@@ -18,15 +18,15 @@ I use SOLIDWORKS to develop 3D parts, mechanical assemblies, and engineering dra
 - Mechanical Design
 - Manufacturing Engineering
 
-## 📁 CAD Projects
+## CAD Projects
 
-### 🔧 Two-Jaw Gear Puller
+### Two-Jaw Gear Puller
 3D CAD model and mechanical assembly of a hand-operated two-jaw gear puller.
 
-### ⚙️ Screw Press
+### Screw Press
 3D CAD modeling and mechanical assembly of a screw press.
 
-## 🎯 Currently Developing
+## Currently Developing
 
 - Advanced SOLIDWORKS skills
 - Mechanical design
@@ -34,7 +34,7 @@ I use SOLIDWORKS to develop 3D parts, mechanical assemblies, and engineering dra
 - CAD portfolio
 - Automation & robotics skills
 
-## 💻 Software
+## Software
 
 - SOLIDWORKS
 - AutoCAD
